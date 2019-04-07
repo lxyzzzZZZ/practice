@@ -1,0 +1,4 @@
+﻿  test.cpp
+h:\git\新建文件夹\c++\string类2\string类2\test.cpp(127): warning C4018: “<=”: 有符号/无符号不匹配
+h:\git\新建文件夹\c++\string类2\string类2\test.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+  string类2.vcxproj -> H:\Git\新建文件夹\C++\string类2\Debug\string类2.exe
