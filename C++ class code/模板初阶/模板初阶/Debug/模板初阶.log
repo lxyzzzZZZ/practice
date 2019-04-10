@@ -1,0 +1,17 @@
+﻿  源.cpp
+h:\git\新建文件夹\c++ class code\模板初阶\模板初阶\源.cpp(103): warning C4244: “return”: 从“T2”转换到“T1”，可能丢失数据
+          with
+          [
+              T2=double
+          ]
+          and
+          [
+              T1=int
+          ]
+  h:\git\新建文件夹\c++ class code\模板初阶\模板初阶\源.cpp(108): note: 参见对正在编译的函数 模板 实例化“T1 ADD<int,double>(T1,T2)”的引用
+          with
+          [
+              T1=int,
+              T2=double
+          ]
+  模板初阶.vcxproj -> H:\Git\新建文件夹\C++ class code\模板初阶\Debug\模板初阶.exe
