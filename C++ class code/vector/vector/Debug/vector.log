@@ -1,0 +1,10 @@
+﻿  源.cpp
+h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(177): warning C4522: “Vector<std::string>”: 指定了多个赋值运算符
+  h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(231): note: 参见对正在编译的 类 模板 实例化 "Vector<std::string>" 的引用
+h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(177): warning C4522: “Vector<int>”: 指定了多个赋值运算符
+  h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(248): note: 参见对正在编译的 类 模板 实例化 "Vector<int>" 的引用
+h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+  h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(161): note: 编译 类 模板 成员函数 "Vector<int>::Vector(const Vector<int> &)" 时
+  h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(288): note: 参见对正在编译的函数 模板 实例化“Vector<int>::Vector(const Vector<int> &)”的引用
+  h:\git\新建文件夹\c++ class code\vector\vector\源.cpp(248): note: 参见对正在编译的 类 模板 实例化 "Vector<int>" 的引用
+  vector.vcxproj -> H:\Git\新建文件夹\C++ class code\vector\Debug\vector.exe
