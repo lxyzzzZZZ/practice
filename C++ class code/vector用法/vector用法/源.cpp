@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+
 #include <string>
 
 using namespace std;
@@ -24,6 +25,7 @@ using namespace std;
 //	return 0;
 //}
 
+<<<<<<< HEAD
 void PrintVector(const vector<int>& v)
 {
 	vector<int>::const_iterator it = v.cbegin();
@@ -34,6 +36,17 @@ void PrintVector(const vector<int>& v)
 	}
 	cout << endl;
 }
+=======
+//void PrintVector(const vector<int>& v)
+//{
+//	vector<int>::const_iterator it = v.cbegin();
+//	while (it != v.cend())
+//	{
+//		cout << *it << " ";
+//		++it;
+//	}
+//	cout << endl;
+//}
 //
 //int main()
 //{
@@ -192,4 +205,24 @@ public:
 		return strs;
 	}
 };
+
+int main()
+{
+	size_t sz;
+	vector<int> foo;
+	sz = foo.capacity();
+	cout << "making foo grow:\n";
+	for (int i = 0; i < 100; ++i)
+	{
+		foo.push_back(i);
+		if (sz != foo.capacity())
+		{
+			sz = foo.capacity();
+			cout << "capacity changed:" << sz << '\n';
+		}
+	}
+	system("pause");
+	return 0;
+}
+
 
