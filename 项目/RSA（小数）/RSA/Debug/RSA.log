@@ -1,0 +1,6 @@
+﻿  RSA.cpp
+h:\git\新建文件夹\项目\rsa\rsa\rsa.cpp(21): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+h:\git\新建文件夹\项目\rsa\rsa\rsa.cpp(48): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+h:\git\新建文件夹\项目\rsa\rsa\rsa.cpp(136): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+h:\git\新建文件夹\项目\rsa\rsa\rsa.cpp(209): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  RSA.vcxproj -> H:\Git\新建文件夹\项目\RSA\Debug\RSA.exe
